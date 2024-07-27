@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+librosa
+numpy
+tensorflow==2.15.0
+scikit-learn
+soundfile
+pydub
